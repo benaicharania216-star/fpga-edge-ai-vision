@@ -333,7 +333,6 @@ rsYocto Linux · C/C++ · Python · OpenCV · TensorFlow / TFLite
 ## Authors
 
 - Rania Ben Aicha
-- [Teammate 1]
-- [Teammate 2]
+- Ghassen Mahmoud
 
-Project carried out at ESIGELEC (Rouen, France), 2026.
+Personal project carried out by ESIGELEC students (Rouen, France), 2026.
